@@ -1,6 +1,6 @@
 # bia
 
-<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" />
+<img src="https://img.shields.io/github/license/ipang-dwi/xdesktop.svg" /> <img src="https://img.shields.io/badge/lab-firstplato.com-red.svg" /> <img src="https://img.shields.io/badge/need-donation-brightgreen.svg" />
 
 BIA Framework - mini frmaework that colaborate CI, GroceryCRUD, MultiLevelLogin, BootstrapUI n TCPDF
 
